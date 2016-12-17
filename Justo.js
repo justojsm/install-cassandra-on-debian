@@ -50,7 +50,7 @@ catalog.workflow({name: "install", desc: "Install Apache Cassandra."}, function(
     if (!apt.available(`Check whether ${PKG} package available`, {name: PKG})) return;
 
     //(3.3) install Cassandra
-    apt.install("Install Apache Cassandra", {
+    apt.install(`Install ${PKG} from APT`, {
       name: PKG
     });
   }
@@ -78,7 +78,7 @@ catalog.workflow({name: "install", desc: "Install Apache Cassandra."}, function(
 
   cli("Check nodetool command", {
     cmd: "bash",
-    args: ["-c", "nodetool version"]
+    args: ["-c", "nodetool help"]
   });
 });
 

@@ -1,6 +1,6 @@
 {
   "name": "install-cassandra-on-debian",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Justo module for installing Cassandra on Debian distros.",
   "homepage": "http://justojs.org",
   "author": {
@@ -18,7 +18,8 @@
   "keywords": [
     "Justo",
     "Justo.js",
-    "justo-module"
+    "justo-module",
+    "Cassandra"
   ],
   "repository": {
     "type": "git",
