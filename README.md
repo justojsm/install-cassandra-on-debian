@@ -20,3 +20,5 @@ To install a specific version, for example, `3.9`:
 ```
 $ sudo -E justo -m install-cassandra-on-debian default:3.9
 ```
+
+[![asciicast](https://asciinema.org/a/8zhz1pe51xayrgoyn5fbqbt45.png)](https://asciinema.org/a/8zhz1pe51xayrgoyn5fbqbt45)

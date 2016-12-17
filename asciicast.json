@@ -1,0 +1,958 @@
+{
+  "duration": 200.828094,
+  "env": {
+    "SHELL": "/bin/bash",
+    "TERM": "xterm"
+  },
+  "stdout": [
+    [
+      0.036919,
+      "\u001b]0;me@boxer: ~\u0007me@boxer:~$ "
+    ],
+    [
+      1.67681,
+      "n"
+    ],
+    [
+      0.270363,
+      "p"
+    ],
+    [
+      0.240065,
+      "m"
+    ],
+    [
+      0.20829,
+      " "
+    ],
+    [
+      0.144069,
+      "i"
+    ],
+    [
+      0.144044,
+      "n"
+    ],
+    [
+      0.143797,
+      "s"
+    ],
+    [
+      0.128027,
+      "t"
+    ],
+    [
+      0.144032,
+      "a"
+    ],
+    [
+      0.27209,
+      "l"
+    ],
+    [
+      0.12804,
+      "l"
+    ],
+    [
+      0.207554,
+      " "
+    ],
+    [
+      0.143927,
+      "-"
+    ],
+    [
+      0.175947,
+      "g"
+    ],
+    [
+      0.336096,
+      " "
+    ],
+    [
+      0.432037,
+      "i"
+    ],
+    [
+      0.160381,
+      "n"
+    ],
+    [
+      0.079992,
+      "s"
+    ],
+    [
+      0.160022,
+      "t"
+    ],
+    [
+      0.144016,
+      "a"
+    ],
+    [
+      0.271949,
+      "l"
+    ],
+    [
+      0.128112,
+      "l"
+    ],
+    [
+      0.19198,
+      "-"
+    ],
+    [
+      0.128014,
+      "c"
+    ],
+    [
+      0.192014,
+      "a"
+    ],
+    [
+      0.207966,
+      "s"
+    ],
+    [
+      0.160048,
+      "s"
+    ],
+    [
+      0.176012,
+      "a"
+    ],
+    [
+      0.175619,
+      "n"
+    ],
+    [
+      0.128486,
+      "d"
+    ],
+    [
+      0.20782,
+      "r"
+    ],
+    [
+      0.223879,
+      "a"
+    ],
+    [
+      0.59234,
+      "-"
+    ],
+    [
+      0.303698,
+      "o"
+    ],
+    [
+      0.160225,
+      "n"
+    ],
+    [
+      0.191728,
+      "-"
+    ],
+    [
+      0.16014,
+      "d"
+    ],
+    [
+      0.144062,
+      "e"
+    ],
+    [
+      0.079826,
+      "b"
+    ],
+    [
+      0.143772,
+      "i"
+    ],
+    [
+      0.144261,
+      "a"
+    ],
+    [
+      0.112144,
+      "n"
+    ],
+    [
+      0.943775,
+      "\r\n"
+    ],
+    [
+      0.624422,
+      "\u001b[?25l"
+    ],
+    [
+      0.00509,
+      "[\u001b[90m..................\u001b[0m] - normalizeTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadCurrentTree\u001b[K\r"
+    ],
+    [
+      0.044944,
+      "[\u001b[90m..................\u001b[0m] - normalizeTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadCurrentTree\u001b[K\r"
+    ],
+    [
+      0.050559,
+      "[\u001b[90m..................\u001b[0m] - normalizeTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadCurrentTree\u001b[K\r"
+    ],
+    [
+      0.050323,
+      "[\u001b[90m..................\u001b[0m] - normalizeTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadCurrentTree\u001b[K\r"
+    ],
+    [
+      0.052115,
+      "[\u001b[90m..................\u001b[0m] - normalizeTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadCurrentTree\u001b[K\r"
+    ],
+    [
+      0.050381,
+      "[\u001b[90m..................\u001b[0m] - normalizeTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadCurrentTree\u001b[K\r"
+    ],
+    [
+      0.050331,
+      "[\u001b[90m..................\u001b[0m] \\ normalizeTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadCurrentTree\u001b[K\r"
+    ],
+    [
+      0.050048,
+      "[\u001b[90m..................\u001b[0m] \\ normalizeTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadCurrentTree\u001b[K\r"
+    ],
+    [
+      0.04924,
+      "[\u001b[90m..................\u001b[0m] \\ normalizeTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadCurrentTree\u001b[K\r"
+    ],
+    [
+      0.047361,
+      "[\u001b[90m..................\u001b[0m] | normalizeTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadCurrentTree\u001b[K\r"
+    ],
+    [
+      0.05544,
+      "[\u001b[90m..................\u001b[0m] | normalizeTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadCurrentTree\u001b[K\r"
+    ],
+    [
+      0.085955,
+      "[\u001b[90m..................\u001b[0m] | normalizeTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadCurrentTree\u001b[K\r"
+    ],
+    [
+      0.049277,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / loadRequestedDeps: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadAllDepsIntoIdealTree\u001b[K\r"
+    ],
+    [
+      0.050549,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/justo-plugin-fs\u001b[K\r"
+    ],
+    [
+      0.051242,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/justo-plugin-fs\u001b[K\r"
+    ],
+    [
+      0.049221,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/justo-plugin-fs\u001b[K\r"
+    ],
+    [
+      0.049929,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/justo-plugin-fs\u001b[K\r"
+    ],
+    [
+      0.050929,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/justo-plugin-fs\u001b[K\r"
+    ],
+    [
+      0.05028,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/justo-plugin-fs\u001b[K\r"
+    ],
+    [
+      0.050205,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/justo-plugin-fs\u001b[K\r"
+    ],
+    [
+      0.049723,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/justo-plugin-fs\u001b[K\r"
+    ],
+    [
+      0.049037,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/justo/0.7.3/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.051384,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] - fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/justo/0.7.3/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.049585,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] - fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/justo/0.7.3/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.049866,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/justo/0.7.3/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.049541,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/justo/0.7.3/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.0515,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] - fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/async/2.0.1/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.052861,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] - fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/async/2.0.1/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.047437,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/async/2.0.1/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.049925,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] - fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/async/2.0.1/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.048963,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] - fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/async/2.0.1/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.050667,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] - fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/async/2.0.1/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.050132,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/justo-result\u001b[K\r"
+    ],
+    [
+      0.051275,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/justo-result\u001b[K\r"
+    ],
+    [
+      0.050241,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/justo-result\u001b[K\r"
+    ],
+    [
+      0.049937,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/justo-result\u001b[K\r"
+    ],
+    [
+      0.049729,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/justo-reporter/0.10.3/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.051786,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/justo-reporter/0.10.3/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.049119,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/justo-reporter/0.10.3/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.050627,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/ansi-escapes\u001b[K\r"
+    ],
+    [
+      0.050631,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/ansi-escapes\u001b[K\r"
+    ],
+    [
+      0.049818,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/ansi-escapes/1.4.0/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.050395,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/ansi-escapes/1.4.0/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.05445,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/exit-hook\u001b[K\r"
+    ],
+    [
+      0.050426,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] - fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/exit-hook\u001b[K\r"
+    ],
+    [
+      0.05256,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/exit-hook\u001b[K\r"
+    ],
+    [
+      0.049848,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/fs-extra\u001b[K\r"
+    ],
+    [
+      0.050433,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/fs-extra\u001b[K\r"
+    ],
+    [
+      0.049721,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] - fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/fs-extra\u001b[K\r"
+    ],
+    [
+      0.054054,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/jsonfile\u001b[K\r"
+    ],
+    [
+      0.049762,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/jsonfile\u001b[K\r"
+    ],
+    [
+      0.049887,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/jsonfile\u001b[K\r"
+    ],
+    [
+      0.056544,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/argparse\u001b[K\r"
+    ],
+    [
+      0.050439,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/argparse\u001b[K\r"
+    ],
+    [
+      0.050714,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/argparse\u001b[K\r"
+    ],
+    [
+      0.048907,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/argparse\u001b[K\r"
+    ],
+    [
+      0.050751,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] - fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/esprima/2.7.3/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.050015,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] - fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/esprima/2.7.3/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.051112,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/sprintf-js/1.0.3/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.050658,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/sprintf-js/1.0.3/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.049306,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/sprintf-js/1.0.3/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.049265,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/sprintf-js/1.0.3/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.050837,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/bindings\u001b[K\r"
+    ],
+    [
+      0.050714,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/bindings\u001b[K\r"
+    ],
+    [
+      0.051116,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/bindings\u001b[K\r"
+    ],
+    [
+      0.04974,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/colors\u001b[K\r"
+    ],
+    [
+      0.050162,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/colors\u001b[K\r"
+    ],
+    [
+      0.05108,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] - fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/colors\u001b[K\r"
+    ],
+    [
+      0.050043,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/deep-assign/2.0.0/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.064345,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/deep-assign/2.0.0/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.043393,
+      "[\u001b[7m          \u001b[27m\u001b[90m........\u001b[0m] - diffTrees: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m generateActionsToTake\u001b[K\r"
+    ],
+    [
+      0.049433,
+      "[\u001b[7m             \u001b[27m\u001b[90m.....\u001b[0m] \\ extract:install-cassandra-on-debian: \u001b[7msill\u001b[0m \u001b[35mdoParallel\u001b[0m extract 1\u001b[K\r"
+    ],
+    [
+      0.054108,
+      "[\u001b[7m               \u001b[27m\u001b[90m...\u001b[0m] \\ finalize:install-cassandra-on-debian: \u001b[7msill\u001b[0m \u001b[35mdoSerial\u001b[0m finalize 1\u001b[K\r"
+    ],
+    [
+      0.029739,
+      "\r\u001b[K\u001b[?25h"
+    ],
+    [
+      0.001113,
+      "/home/me/.npm/lib\r\n└── \u001b[40m\u001b[33minstall-cassandra-on-debian@0.1.1\u001b[39m\u001b[49m \r\n\r\n"
+    ],
+    [
+      0.010388,
+      "\u001b]0;me@boxer: ~\u0007me@boxer:~$ "
+    ],
+    [
+      0.8374,
+      "s"
+    ],
+    [
+      0.335799,
+      "u"
+    ],
+    [
+      0.175802,
+      "d"
+    ],
+    [
+      0.176189,
+      "o"
+    ],
+    [
+      0.336013,
+      " "
+    ],
+    [
+      0.464411,
+      "-"
+    ],
+    [
+      0.271985,
+      "E"
+    ],
+    [
+      0.207827,
+      " "
+    ],
+    [
+      0.239886,
+      "j"
+    ],
+    [
+      0.160163,
+      "u"
+    ],
+    [
+      0.09594,
+      "s"
+    ],
+    [
+      0.127885,
+      "t"
+    ],
+    [
+      0.127979,
+      "o"
+    ],
+    [
+      0.383978,
+      " "
+    ],
+    [
+      0.512074,
+      "-"
+    ],
+    [
+      0.272002,
+      "m"
+    ],
+    [
+      0.192031,
+      " "
+    ],
+    [
+      0.303985,
+      "i"
+    ],
+    [
+      0.160082,
+      "n"
+    ],
+    [
+      0.144043,
+      "s"
+    ],
+    [
+      0.095986,
+      "t"
+    ],
+    [
+      0.095898,
+      "a"
+    ],
+    [
+      0.335901,
+      "l"
+    ],
+    [
+      0.159988,
+      "l"
+    ],
+    [
+      0.752092,
+      "-"
+    ],
+    [
+      0.544063,
+      "c"
+    ],
+    [
+      0.159757,
+      "a"
+    ],
+    [
+      0.240178,
+      "s"
+    ],
+    [
+      0.176073,
+      "s"
+    ],
+    [
+      0.176055,
+      "a"
+    ],
+    [
+      0.208018,
+      "n"
+    ],
+    [
+      0.128083,
+      "d"
+    ],
+    [
+      0.191688,
+      "r"
+    ],
+    [
+      0.224147,
+      "a"
+    ],
+    [
+      0.463868,
+      "-"
+    ],
+    [
+      0.432246,
+      "o"
+    ],
+    [
+      0.191964,
+      "n"
+    ],
+    [
+      0.240036,
+      "-"
+    ],
+    [
+      0.176058,
+      "d"
+    ],
+    [
+      0.128049,
+      "e"
+    ],
+    [
+      0.111996,
+      "b"
+    ],
+    [
+      0.143989,
+      "i"
+    ],
+    [
+      0.112036,
+      "a"
+    ],
+    [
+      0.14372,
+      "n"
+    ],
+    [
+      0.176264,
+      " "
+    ],
+    [
+      0.111926,
+      "d"
+    ],
+    [
+      0.112122,
+      "e"
+    ],
+    [
+      0.111979,
+      "f"
+    ],
+    [
+      0.176243,
+      "a"
+    ],
+    [
+      0.111956,
+      "u"
+    ],
+    [
+      0.191315,
+      "l"
+    ],
+    [
+      0.096478,
+      "t"
+    ],
+    [
+      0.368185,
+      ":"
+    ],
+    [
+      1.279713,
+      "3"
+    ],
+    [
+      0.367699,
+      "."
+    ],
+    [
+      0.33602,
+      "9"
+    ],
+    [
+      1.472226,
+      "\r\n"
+    ],
+    [
+      0.006682,
+      "[sudo] password for me: "
+    ],
+    [
+      2.937497,
+      "\r\n"
+    ],
+    [
+      0.431214,
+      "\u001b[?25l"
+    ],
+    [
+      0.000879,
+      "  \r\n  \u001b[33mdefault\u001b[39m\r\n"
+    ],
+    [
+      0.000193,
+      "\u001b[?25h"
+    ],
+    [
+      0.001497,
+      "\u001b[?25l    \u001b[36mdefault\u001b[39m\r\n"
+    ],
+    [
+      7.1e-05,
+      "\u001b[?25h"
+    ],
+    [
+      0.000823,
+      "\u001b[?25l      \u001b[36minstall\u001b[39m\r\n\u001b[?25h"
+    ],
+    [
+      0.007899,
+      "\u001b[?25h"
+    ],
+    [
+      5.2e-05,
+      "\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck whether Cassandra installed\u001b[39m\r\n"
+    ],
+    [
+      2.105626,
+      "\u001b[?25l"
+    ],
+    [
+      0.000118,
+      "\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck whether Cassandra installed\u001b[39m \u001b[90m(2105 ms)\u001b[39m\r\n\u001b[?25h"
+    ],
+    [
+      0.000672,
+      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck whether cURL installed\u001b[39m\r\n"
+    ],
+    [
+      0.456057,
+      "\u001b[?25l"
+    ],
+    [
+      5.6e-05,
+      "\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck whether cURL installed\u001b[39m \u001b[90m(452 ms)\u001b[39m\r\n\u001b[?25h"
+    ],
+    [
+      0.001398,
+      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck whether /etc/apt/sources.list.d/cassandra.list exists\u001b[39m\r\n"
+    ],
+    [
+      0.000433,
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck whether /etc/apt/sources.list.d/cassandra.list exists\u001b[39m \u001b[90m(1 ms)\u001b[39m\r\n\u001b[?25h"
+    ],
+    [
+      0.00022,
+      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCreate /etc/apt/sources.list.d/cassandra.list\u001b[39m\r\n"
+    ],
+    [
+      0.008429,
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCreate /etc/apt/sources.list.d/cassandra.list\u001b[39m \u001b[90m(8 ms)\u001b[39m\r\n\u001b[?25h"
+    ],
+    [
+      0.000146,
+      "\u001b[?25h\u001b[?25l"
+    ],
+    [
+      2.4e-05,
+      "      [ \u001b[33mCR\u001b[39m ] \u001b[90mAdd APT key\u001b[39m\r\n"
+    ],
+    [
+      1.566556,
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mAdd APT key\u001b[39m \u001b[90m(1566 ms)\u001b[39m\r\n"
+    ],
+    [
+      2.9e-05,
+      "\u001b[?25h"
+    ],
+    [
+      0.000991,
+      "\u001b[?25h"
+    ],
+    [
+      2.3e-05,
+      "\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mUpdate APT index\u001b[39m\r\n"
+    ],
+    [
+      16.923728,
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mUpdate APT index\u001b[39m \u001b[90m(16924 ms)\u001b[39m\r\n\u001b[?25h"
+    ],
+    [
+      0.001826,
+      "\u001b[?25h"
+    ],
+    [
+      0.000196,
+      "\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck whether cassandra package available\u001b[39m\r\n"
+    ],
+    [
+      0.409067,
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck whether cassandra package available\u001b[39m \u001b[90m(409 ms)\u001b[39m\r\n\u001b[?25h"
+    ],
+    [
+      0.001449,
+      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mInstall cassandra from APT\u001b[39m\r\n"
+    ],
+    [
+      141.479683,
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mInstall cassandra from APT\u001b[39m \u001b[90m(141480 ms)\u001b[39m\r\n\u001b[?25h"
+    ],
+    [
+      0.000146,
+      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck cassandra command\u001b[39m\r\n"
+    ],
+    [
+      1.201381,
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck cassandra command\u001b[39m \u001b[90m(1201 ms)\u001b[39m\r\n"
+    ],
+    [
+      4.1e-05,
+      "\u001b[?25h"
+    ],
+    [
+      0.000149,
+      "\u001b[?25h"
+    ],
+    [
+      2.8e-05,
+      "\u001b[?25l"
+    ],
+    [
+      2.6e-05,
+      "      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck cassandra-stress command\u001b[39m\r\n"
+    ],
+    [
+      0.702855,
+      "\u001b[?25l"
+    ],
+    [
+      3.7e-05,
+      "\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck cassandra-stress command\u001b[39m \u001b[90m(702 ms)\u001b[39m\r\n\u001b[?25h"
+    ],
+    [
+      0.000204,
+      "\u001b[?25h"
+    ],
+    [
+      8.3e-05,
+      "\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck cqlsh command\u001b[39m\r\n"
+    ],
+    [
+      0.28695,
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck cqlsh command\u001b[39m \u001b[90m(287 ms)\u001b[39m\r\n"
+    ],
+    [
+      3.7e-05,
+      "\u001b[?25h"
+    ],
+    [
+      0.000422,
+      "\u001b[?25h\u001b[?25l"
+    ],
+    [
+      3.4e-05,
+      "      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck sstableloader command\u001b[39m\r\n"
+    ],
+    [
+      0.456178,
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck sstableloader command\u001b[39m \u001b[90m(456 ms)\u001b[39m\r\n"
+    ],
+    [
+      4e-05,
+      "\u001b[?25h"
+    ],
+    [
+      0.000164,
+      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck nodetool command\u001b[39m\r\n"
+    ],
+    [
+      0.858576,
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck nodetool command\u001b[39m \u001b[90m(858 ms)\u001b[39m\r\n"
+    ],
+    [
+      8.2e-05,
+      "\u001b[?25h"
+    ],
+    [
+      0.001184,
+      "\u001b[?25l"
+    ],
+    [
+      7.6e-05,
+      "\r\n\u001b[?25h"
+    ],
+    [
+      0.000344,
+      "\u001b[?25l"
+    ],
+    [
+      9.7e-05,
+      "  \u001b[32mOK\u001b[39m 13 | \u001b[31mFailed\u001b[39m 0 | \u001b[37mIgnored\u001b[39m 0 | Total 13\r\n\u001b[?25h"
+    ],
+    [
+      7.5e-05,
+      "\u001b[?25l\r\n"
+    ],
+    [
+      7.1e-05,
+      "\u001b[?25h"
+    ],
+    [
+      0.000909,
+      "\u001b[?25h"
+    ],
+    [
+      0.003221,
+      "\u001b]0;me@boxer: ~\u0007me@boxer:~$ "
+    ]
+  ],
+  "version": 1,
+  "title": "Install Cassandra on Debian with Justo.js",
+  "width": 197,
+  "command": null,
+  "height": 59
+}
